@@ -1,12 +1,52 @@
-# React + Vite
+# 📋 TodoListApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive to-do list application built using React! 🚀
 
-Currently, two official plugins are available:
+## 🎯 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Add tasks to your to-do list
+- 🗑️ Delete tasks when completed
+- ☝👇 Move tasks up and down
 
-## Expanding the ESLint configuration
+## 🛠️ Installation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ksgkodz/TodoListApp.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd TodoListApp
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+## 📸 Preview
+![image](https://github.com/user-attachments/assets/769232d6-3cd2-4a21-9bf4-3921184c02a1)
+
+![TodoListApp Preview](https://via.placeholder.com/800x400.png?text=TodoListApp+Preview)
+
+## 📜 Usage
+
+1. Enter a task in the input field.
+2. Click the "Add" button to add the task to the list.
+3. Move tasks up or down using the arrows.
+4. Click the delete button to remove a task.
+
+## 🤝 Contributing
+
+Feel free to contribute! Fork the repository, create a new branch, and submit a pull request. 🚀
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+Made with ❤️ by [ksgkodz](https://github.com/ksgkodz)
+
