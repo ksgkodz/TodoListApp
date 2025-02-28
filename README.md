@@ -30,7 +30,6 @@ A simple and interactive to-do list application built using React! 🚀
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/769232d6-3cd2-4a21-9bf4-3921184c02a1)
 
-![TodoListApp Preview](https://via.placeholder.com/800x400.png?text=TodoListApp+Preview)
 
 ## 📜 Usage
 
